@@ -81,6 +81,7 @@ vim-im ywvim
  - [AlphaSmart Neo](https://www.flickr.com/photos/kadavy/19875435485/in/pool-alphasmart/)
  - [KindleBerry Pi](http://www.ponnuki.net/2012/09/kindleberry-pi/)
  - Atrix Dock 4G
+ - Sony Clie UX50
  
  
 ## 商业模式
