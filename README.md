@@ -1,6 +1,6 @@
 # TuinkPad
 
-Full open source mobile terminal device with elink screen, physical keyboard and long battery life, suitable for Linux system administrators and Linux users.
+Full open source mobile terminal device with e-ink screen, physical keyboard and long battery life, suitable for Linux system administrators and Linux users.
 
 
 # 带电子墨水屏的廉价终端
