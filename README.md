@@ -77,8 +77,8 @@ vim-im ywvim
 
 ## See Also
 
- - FreeWrite/HemingWrite
- - AlphaSmart Neo
+ - [FreeWrite/HemingWrite](http://getfreewrite.com/)
+ - [AlphaSmart Neo](https://www.flickr.com/photos/kadavy/19875435485/in/pool-alphasmart/)
  - [KindleBerry Pi](http://www.ponnuki.net/2012/09/kindleberry-pi/)
  - Atrix Dock 4G
  
