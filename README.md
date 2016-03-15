@@ -79,6 +79,7 @@ vim-im ywvim
 
  - FreeWrite/HemingWrite
  - AlphaSmart Neo
+ - [KindleBerry Pi](http://www.ponnuki.net/2012/09/kindleberry-pi/)
  
  
 ## 商业模式
