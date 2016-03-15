@@ -43,6 +43,9 @@ Full open source: 从硬件设计到生产工艺到供应商选型标准，全�
  - 带有 SD 卡插槽可扩展
  - 所有设计全部开源！
  - 支持 UTF-8
+ - I/O: 
+   * as USB Gadget: mass storage 模拟成U盘，插到PC上
+   * as USB Gadget: HID Keyboard 模拟成键盘对外输出文字
 
 ## 挑战
 
