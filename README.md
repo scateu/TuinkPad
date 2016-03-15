@@ -72,3 +72,10 @@ vim-im ywvim
 
  - FreeWrite/HemingWrite
  - AlphaSmart Neo
+ 
+ 
+## 商业模式
+
+钱钱钱就知道钱！
+
+咬我啊！
