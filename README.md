@@ -40,13 +40,25 @@ Distraction Free: 让更多人能够集中精力完成任务，如写作，修�
  - 所有设计全部开源！
  - 支持 UTF-8
 
+## 挑战
+
+ - 电子墨水屏需要屏保，否则会烧屏
+ - 成本
+ - 待机电量
+
+
 ## 软件
 
 预装
 
 ```
 tmux alpine mutt mbsync/offlineimap weechat vim emacs dropbox 
-uim-fep fcitx-frontend-fbterm
+```
+
+输入法:
+```
+uim-fep fcitx-frontend-fbterm kmscon fbterm univt 
+vim-im ywvim
 ```
 
 ## 实现方案
