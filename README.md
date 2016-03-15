@@ -15,6 +15,10 @@ Full open source mobile terminal device with e-ink screen, physical keyboard and
 
 Distraction Free: 让更多人能够集中精力完成任务，如写作，修服务器，修Bug，聊IRC....
 
+Less is more: 足够可靠，功能越少越好
+
+Full open source: 从硬件设计到生产工艺到供应商选型标准，全部开源
+
 ## 特性
 
  - 拥有 iPad Mini 大小的电子墨水屏
