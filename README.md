@@ -82,6 +82,7 @@ vim-im ywvim
  - [KindleBerry Pi](http://www.ponnuki.net/2012/09/kindleberry-pi/)
  - Atrix Dock 4G
  - Sony Clie UX50
+ - [Displio](http://displ.io/)
  
  
 ## 商业模式
