@@ -78,7 +78,7 @@ vim-im ywvim
 ## See Also
 
  - [FreeWrite/HemingWrite](http://getfreewrite.com/)
- - [AlphaSmart Neo](https://www.flickr.com/photos/kadavy/19875435485/in/pool-alphasmart/)
+ - [AlphaSmart Neo](https://www.flickr.com/photos/kadavy/19875435485/in/pool-alphasmart/) [详细评测](https://jennifermack.net/2015/01/29/writing-with-the-alphasmart-neo2/)
  - [KindleBerry Pi](http://www.ponnuki.net/2012/09/kindleberry-pi/)
  - Atrix Dock 4G
  - Sony Clie UX50
